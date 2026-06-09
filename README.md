@@ -1,3 +1,5 @@
+Numpy Project
+```text
 numpy-projects/
 │
 ├── README.md
@@ -9,3 +11,4 @@ numpy-projects/
 ├── banking-transaction-analysis/
 │   ├── Banking Transaction Analysis.ipynb
 │   └── README.md
+```
